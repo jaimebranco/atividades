@@ -59,6 +59,7 @@ public class exercicio2Switch {
 		default:
 			System.out.println("Opção inválida");
 			System.out.println("Finalizar");
+			break;
 		}
 
 		leia.close();
