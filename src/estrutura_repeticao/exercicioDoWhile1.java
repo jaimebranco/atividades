@@ -16,7 +16,7 @@ public class exercicioDoWhile1 {
 
 			if (numero > 0) {
 				positivo = numero + positivo;
-				
+
 			}
 
 		} while (numero != 0);
